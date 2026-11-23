@@ -1,0 +1,6 @@
+{
+  "name": "The M Chapter",
+  "description": "An evening of elegance and good vibes celebrating Mpho's Birthday on 13th December 2026 at New Dawn Events Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
